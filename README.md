@@ -1,3 +1,4 @@
 # Mein simple terminal build
 
-Nicht viel Besonderes ausser Schriftgroesse, cursor
+Patches:
+* transparence (alpha-0.8.2)
